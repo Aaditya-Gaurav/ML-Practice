@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Sample dataset
 X = np.array([1, 2, 3, 4, 5])
-y = np.array([2, 4, 5, 4, 5])
+y = np.array([2, 4, 6, 8, 10])
 
 # Mean of X and y
 X_mean = np.mean(X)
